@@ -1,0 +1,7 @@
+/config.properties
+/li/
+/log4j.properties
+/spring-hibernate.xml
+/spring-test.xml
+/spring.xml
+/struts.xml
